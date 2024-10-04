@@ -10,7 +10,7 @@ import requests
 import os
 import logging
 
-vpn_name = "mw"
+vpn_name = "####"
 logging.getLogger().addHandler(logging.NullHandler())
 auto_reconnect = True
 
